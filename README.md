@@ -24,5 +24,5 @@ Ik heb dit gemaakt omdat het gemiddelde cijfer niet het correcte cijfer was en h
 
 
 # Installatie
-Om het script te kunnen gebruiken, heb je [TamperMonkey](https://www.tampermonkey.net/) of een alternatief nodig.
-Installeer mijn script [hier](https://greasyfork.org/en/scripts/447574-eduarte-betere-cijferlijst).\
+Om het script te kunnen gebruiken, heb je [TamperMonkey](https://www.tampermonkey.net/) of een alternatief nodig.\
+Installeer mijn script [hier](https://greasyfork.org/en/scripts/447574-eduarte-betere-cijferlijst).
