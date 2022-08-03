@@ -6,7 +6,7 @@ Ik heb dit gemaakt omdat het gemiddelde cijfer niet het correcte cijfer was en h
 ### Gemiddelde fix:
 ![Gemiddelde fix](img/gemiddelde.png?raw=true "Gemiddelde Fix")
 
-### Meer kleurenfix:
+### Meer kleuren:
 ![Meer kleuren](img/kleuren.png?raw=true "Meer kleuren")
 
 ### Compacte modus:
