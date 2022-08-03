@@ -12,6 +12,8 @@ Ik heb dit gemaakt omdat het gemiddelde cijfer niet het correcte cijfer was en h
 ### Compacte modus:
 ![Compacte modus](img/compact.png?raw=true "Compacte modus")
 
+### Optie menu:
+![Menu](img/menu.png?raw=true "Menu")
 
 ## Verschil
 ### Alles uit:
